@@ -2,7 +2,7 @@
 
 
 Xamarin Skills
-- Backend Communication (Web API, Firebase, SQL Databases)
+- Backend Communication/Features/Authentication (Web API, Firebase, SQL Databases)
 - MVVM
 - Local Authentication
 - Native Application, Web integration
