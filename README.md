@@ -1,7 +1,5 @@
 ### 
 
-[![MasterHead](https://static.wixstatic.com/media/df8e48_96fd2a5abfc24f5ea964e82be21aa74b~mv2.jpg/v1/fill/w_621,h_640,al_c,q_85,enc_auto/df8e48_96fd2a5abfc24f5ea964e82be21aa74b~mv2.jpg)](https://github.com/theolliebbb)
-
 
 
 
