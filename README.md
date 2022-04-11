@@ -10,7 +10,7 @@ Xamarin Skills
 - Web Scraping
 - ListView, CollectionView, CarouselView etc. with/without SQLite
 - Design (Pancake, Animation, etc.)
-- Image integration with MediaPicker
+- Image Upload/Saving integration with MediaPicker
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theolliebbb&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
