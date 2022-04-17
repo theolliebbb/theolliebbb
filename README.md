@@ -8,6 +8,8 @@ Xamarin Skills
 - Native Application, Web integration
 - Json Deserialization
 - Web Scraping
+- Map View, Web  View
+- JSON Deserialization
 - ListView, CollectionView, CarouselView etc. with/without SQLite
 - Design (Pancake, Animation, microcharts, etc.)
 - Image Upload/Saving integration with MediaPicker
