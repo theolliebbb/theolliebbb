@@ -11,7 +11,7 @@ Xamarin Skills
 - Map View, Web  View
 - JSON Deserialization
 - ListView, CollectionView, CarouselView etc. with/without SQLite
-- Design (Pancake, Animation, microcharts, etc.)
+- Design (Pancake, Animation, microcharts, Shapes, Images etc.)
 - Image Upload/Saving integration with MediaPicker
 
 <div id="header" align="center">
