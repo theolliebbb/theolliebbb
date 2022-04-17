@@ -12,7 +12,7 @@ Xamarin Skills
 - JSON Deserialization
 - ListView, CollectionView, CarouselView etc. with/without SQLite
 - Design (Pancake, Animation, microcharts, Shapes, Images etc.)
-- Image Upload/Saving integration with MediaPicker
+- File/Photo/Audio Saving and Uploading
 
 <div id="header" align="center">
   
