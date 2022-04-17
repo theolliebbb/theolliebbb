@@ -1,7 +1,7 @@
 ### 
 募集してる会社の方： このXamarinプロジェクトをクリックして見てください！！
 
-<a href="https://github.com/theolliebbb/FindABagel">Find A Bagel text</a>
+<a href="https://github.com/theolliebbb/FindABagel">Find A Bagel App</a>
 
 <a href="https://github.com/theolliebbb/IFApp">Illusion Force App</a>
 
