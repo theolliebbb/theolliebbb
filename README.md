@@ -20,7 +20,6 @@ Xamarin Skills
 - Json Deserialization
 - Web Scraping
 - Map View, Web  View
-- JSON Deserialization
 - ListView, CollectionView, CarouselView etc. with/without SQLite
 - Design (Pancake, Animation, microcharts, Shapes, Images etc.)
 - File/Photo/Audio Saving and Uploading
