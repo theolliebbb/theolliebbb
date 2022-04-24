@@ -11,7 +11,11 @@
 
 <a href="https://github.com/theolliebbb/Tokyo-Live-Houses">Tokyo Live House App</a>
 
-このASP。Net プロジェクトも見てもらいませんか？
+このASP。Net CORE プロジェクトも見てもらいませんか？
+
+<a href="https://github.com/theolliebbb/IFWebAPI">Illusion Force Live Web API</a>
+
+<a href="https://github.com/theolliebbb/IfLiveShows-ASP.netCore">Illusion Force  MVC CRUD Web App</a>
 
 Xamarin Skills
 - Backend Communication/Features/Authentication (Web API, Firebase, SQL Databases)
