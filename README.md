@@ -11,6 +11,7 @@
 
 <a href="https://github.com/theolliebbb/Tokyo-Live-Houses">Tokyo Live House App</a>
 
+このASP。Net プロジェクトも見てもらいませんか？
 
 Xamarin Skills
 - Backend Communication/Features/Authentication (Web API, Firebase, SQL Databases)
