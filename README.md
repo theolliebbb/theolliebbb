@@ -19,7 +19,7 @@
 
 FullStack:
 
-<a href="https://github.com/theolliebbb/DogsApp">Dog Registry App (FullStack)/a>
+<a href="https://github.com/theolliebbb/DogsApp">Dog Registry App (FullStack)</a>
 
 Xamarin Skills
 - Backend Communication/Features/Authentication (Web API, Firebase, SQL Databases)
