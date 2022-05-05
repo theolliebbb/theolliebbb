@@ -17,6 +17,10 @@
 
 <a href="https://github.com/theolliebbb/IfLiveShows-ASP.netCore">Illusion Force  MVC CRUD Web App</a>
 
+FullStack:
+
+<a href="https://github.com/theolliebbb/DogsApp">Dog Registry App (FullStack)/a>
+
 Xamarin Skills
 - Backend Communication/Features/Authentication (Web API, Firebase, SQL Databases)
 - MVVM
